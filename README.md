@@ -38,7 +38,7 @@
   4. Verify the search bar functionality.
   5. Ensure the promotional banner is visible and links work.
 
-- **Expected Result:** Homepage loads within 2 seconds. All elements should be correctly displayed and functional.
+- **Expected Result:** Homepage loads. All elements should be correctly displayed and functional.
 
 #### 2. **Product Search**
 
